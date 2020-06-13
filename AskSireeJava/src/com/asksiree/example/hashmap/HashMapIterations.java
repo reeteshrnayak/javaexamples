@@ -1,4 +1,4 @@
-package com.asksiree.example;
+package com.asksiree.example.hashmap;
 
 import java.util.HashMap;
 import java.util.Iterator;
